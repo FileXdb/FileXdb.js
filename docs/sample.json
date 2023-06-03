@@ -1,0 +1,30 @@
+{ 
+    "database": {
+        "coll-1":{
+            "schema":{},
+            "data":[
+                {
+                    "name": "name-1",
+                    "value": "value-1"
+                },
+                {
+                    "name": "name-2",
+                    "value": "value-2"
+                }
+            ]
+        },
+        "coll-2":{
+            "schema":{},
+            "data":[
+                {
+                    "name": "name-1",
+                    "value": "value-1"
+                },
+                {
+                    "name": "name-2",
+                    "value": "value-2"
+                }
+            ]
+        }
+    } 
+}

@@ -1,0 +1,26 @@
+{
+  "name": "filexdb",
+  "version": "1.0.0",
+  "description": "A lightweight local NoSQL database",
+  "main": "src/index.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FileXdb/FileXdb.js.git"
+  },
+  "keywords": [
+    "filexdb",
+    "nosqldb",
+    "database"
+  ],
+  "author": "Sam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FileXdb/FileXdb.js/issues"
+  },
+  "homepage": "https://github.com/FileXdb/FileXdb.js#readme"
+}
